@@ -1,0 +1,28 @@
+main {
+    justify-content: center;
+}
+
+.session_info {
+    text-align: right;
+}
+
+table {
+    max-width: 100%;
+    margin:25px;
+}
+
+
+tr {
+    background-color: #eee;
+}
+
+th {
+    background-color: #555;
+    color: #fff;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 0.5em 1em;
+}

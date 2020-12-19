@@ -1,0 +1,281 @@
+Scientific name	English name	 
+Alces alces	Elk
+Ammotragus lervia	Barbary sheep
+Apodemus alpicola	Alpine mouse
+Apodemus agrarius	Striped field mouse
+Apodemus flavicollis	Yellow-necked mouse
+Apodemus mystacinus	Rock mouse
+Apodemus sylvaticus	Wood mouse
+Arvicola sapidus	Southern water vole
+Arvicola terrestris	Water vole
+Atelerix algirus	Algerian hedgehog
+Atlantoxerus getulus	Barbary ground squirrel
+Balaenoptera acutorostrata	Minke whale
+Balaenoptera borealis	Sei whale
+Balaenoptera musculus	Blue whale
+Balaenoptera physalus	Fin whale
+Barbastella barbastellus	Barbastelle
+Barbastella leucomelas	Eastern barbastelle
+Callosciurus finlaysonii	Thailand tree squirrel
+Canis aureus	Golden jackal
+Canis lupus	Wolf
+Castor fiber	Eurasian beaver
+Capra aegagrus	Wild goat
+Capra cylindricornis	East Caucasian tur
+Capra ibex	Alpine ibex
+Capra pyrenaica	Spanish ibex
+Capreolus capreolus	Roe deer
+Capreolus pygargus	Siberian roe deer
+Cervus elaphus	Red deer
+Cervus nippon	Sika deer
+Chionomys gud	Caucasian snow vole
+Chionomys nivalis	Snow vole
+Clethrionomys glareolus	Bank vole
+Clethrionomys rufocanus	Grey-sided vole
+Clethrionomys rutilus	Red vole
+Cricetulus migratorius	Grey hamster
+Crocidura leucodon	Bi-coloured white-toothed shrew
+Crocidura russula	Greater white-toothed shrew
+Crocidura sicula	Sicilian shrew
+Crocidura suaveolens	Lesser white-toothed shrew
+Dama dama	Fallow deer
+Desmana moschata	Russian desman
+Dicrostonyx torquatus	Collared lemming
+Dinaromys bogdanovi	Balkan snow vole
+Dryomys nitedula	Forest dormouse
+Eliomys quercinus	Garden dormouse
+Ellobius talpinus	Northern mole-vole
+Eptesicus bottae	Botta’s serotine
+Eptesicus nilssonii	Northern bat
+Eptesicus serotinus	Serotine
+Erignathus barbatus	Bearded seal
+Erinaceus concolor	Eastern hedgehog
+Erinaceus europaeus	Western hedgehog
+Felis chaus	Jungle cat
+Felis silvestris	Wildcat
+Galemys pyrenaicus	Pyrenean desman
+Gazella subgutturosa	Goitred gazelle
+Genetta genetta	Common genet
+Glis glis	Fat dormouse, Edible dormouse
+Grampus griseus	Risso’s dolphin
+Gulo gulo	Wolverine
+Halichoerus grypus	Grey seal
+Hemiechinus auritus	Long-eared hedgehog
+Herpestes ichneumon	Egyptian mongoose
+Hyaena hyaena	Striped hyaena
+Hydropotes inermis	Chinese water deer
+Hyperoodon ampullatus	Northern bottlenose whale
+Hystrix cristata	Crested porcupine
+Hystrix indica	Indian crested porcupine
+Lagenorhynchus acutus	White-sided dolphin
+Lagenorhynchus albirostris	White-beaked dolphin
+Lagurus lagurus	Steppe lemming
+Lemmus lemmus	Norway lemming
+Lepus castroviejoi	Broom hare
+Lepus capensis	Cape hare
+Lepus corsicanus	Corsican hare
+Lepus europaeus	Brown hare
+Lepus granatensis	Iberian hare
+Lepus timidus	Mountain hare
+Lepus tolai	Tolai hare
+Lemmus sibiricus	Siberian lemming
+Lutra lutra	Otter
+Lynx pardinus	Iberian lynx, Pardel lynx
+Lynx lynx	Lynx
+Marmota baibacina	Gray marmot
+Marmota bobak	Steppe marmot
+Marmota marmota	Alpine marmot
+Martes foina	Beech marten, Stone marten
+Martes martes	Pine marten
+Martes martes	Pine marten
+Megaptera novaeangliae	Humpback whale
+Meles meles	Badger
+Meriones persicus	Persian gerbil
+Meriones vinogradovi	Vinogradov's jird
+Mesocricetus raddei	Ciscaucasian hamster
+Mesoplodon bidens	Sowerby’s beaked whale
+Micromys minutus	Harvest mouse
+Microtus agrestis	Field vole
+Microtus arvalis	Common vole
+Microtus cabrerae	Cabrera's vole
+Microtus duodecimcostatus	Mediterranean pine vole
+Microtus felteni	Balkan pine vole
+Microtus gerbei	Pyrenean pine vole
+Microtus lusitanicus	Lusitanian pine vole
+Microtus majori	Caucasian pine vole
+Microtus multiplex	Alpine pine vole
+Microtus oeconomus	Root vole
+Microtus rossiaemeridionalis	Sibling volet
+Microtus savii	Savi's pine vole
+Microtus socialis	Social vole, Steppe vole
+Microtus subterraneus	Common pine vole
+Microtus thomasi	Thomas’s vole
+Miniopterus schreibersii	Schreibers’ bat
+Monachus monachus	Mediterranean monk seal
+Mus domesticus	Western house mouse
+Mus macedonicus	Balkan short-tailed mouse
+Mus musculus	Eastern house mouse
+Mus spicilegus	Steppe mouse
+Mus spretus	Algerian mouse
+Muscardinus avellanarius	Common dormouse
+Mustela erminea	Stoat
+Mustela eversmanii	Steppe polecat
+Mustela lutreola	European mink
+Mustela nivalis	Weasel
+Mustela putorius	Western polecat
+Mustela sibirica	Siberian weasel
+Mustela vison	American mink
+Myocastor coypus	Coypu
+Myomimus roachi	Mouse-tailed dormouse
+Myopus schisticolor	Wood lemming
+Myotis capaccinii	Long-fingered bat
+Myotis bechsteinii	Bechstein's bat
+Myotis blythii	Lesser mouse-eared bat
+Myotis brandtii	Brandt's bat
+Myotis capaccinii	Long-fingered bat
+Myotis daubentonii	Daubenton's bat
+Myotis dasycneme	Pond bat
+Myotis emarginatus	Geoffroy's bat
+Myotis myotis	Greater mouse-eared bat
+Myotis mystacinus	Whiskered bat
+Myotis nattereri	Natterer's bat
+Myotis bechsteinii	Bechstein's bat
+Nannospalax leucodon	Lesser mole rat
+Neomys anomalus	Miller's water shrew
+Neomys fodiens	Water shrew
+Nyctalus lasiopterus	Greater noctule
+Nyctalus leisleri	Leisler's bat
+Nyctalus noctula	Noctule
+Nyctereutes procyonoides	Raccoon dog
+Ochotona alpina Northern pika
+Ochotona pusilla	Steppe pika
+Odobenus rosmarus	Walrus
+Ondatra zibethicus	Muskrat
+Orcinus orca	Killer whale
+Oryctolagus cuniculus	Rabbit
+Otocolobus manul	Pallas's cat
+Ovibos moschatus	Musk ox
+Ovis ammon	Mouflon
+Panthera pardus	Leopard
+Pipistrellus kuhlii	Kuhl's pipistrelle
+Pipistrellus nathusii	Nathusius' pipistrelle
+Pipistrellus pipistrellus	Common pipistrelle
+Pipistrellus savii	Savi's pipistrelle
+Phoca caspica	Caspian seal
+Phoca groenlandica	Harp seal
+Phoca hispida	Ringed seal
+Phoca vitulina	Common seal
+Phocoena phocoena	Harbour porpoise
+Plecotus auritus	Brown long-eared bat
+Plecotus austriacus	Grey long-eared bat
+Procyon lotor	Raccoon
+Rangifer tarandus	Reindeer
+Rattus norvegicus	Brown rat
+Rattus rattus	Black rat, Ship rat
+Rhinolophus euryale	Mediterranean horseshoe bat
+Rhinolophus ferrumequinum	Greater horseshoe bat
+Rhinolophus hipposideros	Lesser horseshoe bat
+Rhinolophus mehelyi	Mehely's horseshoe bat
+Rhinolophus blasii	Blasius' horseshoe bat
+Pteromys volans	Russian flying squirrel
+Rupicapra pyrenaica	Southern chamois
+Rupicapra rupicapra	Alpine chamois
+Saiga tatarica	Saiga
+Sciurus anomalus	Persian squirrel
+Sciurus carolinensis	Grey squirrel
+Sciurus vulgaris	Red squirrel
+Sicista betulina	Northern birch mouse
+Sorex alpinus	Alpine shrew
+Sorex araneus	Common shrew
+Sorex caecutiens	Masked shrew
+Sorex coronatus	Millet's shrew
+Sorex granarius	Spanish shrew
+Sorex isodon	Taiga shrew
+Sorex minutissimus	Least shrew
+Sorex minutus	Pygmy shrew
+Sorex samniticus	Appenine shrew
+Spermophilus fulvus	Large-toothed souslik
+Spermophilus major	Russet souslik
+Spermophilus musicus	Souslik
+Spermophilus pygmaeus	Little souslik
+Spermophilus suslicus	Spotted souslik
+Suncus etruscus	Pygmy white-toothed shrew
+Sus scrofa	Wild boar
+Sylvilagus floridanus	Eastern cottontail rabbit
+Tadarida teniotis	European free-tailed bat
+Talpa caeca	Blind mole
+Talpa caucasica	Caucasian mole
+Talpa europaea	Common mole
+Talpa levantis	Levant mole
+Talpa occidentalis	Iberian mole
+Talpa romana	Roman mole
+Talpa stankovici	Balkan mole
+Tamias sibiricus	Siberian chipmunk
+Tursiops truncatus	Bottlenose dolphin
+Ursus arctos	Brown bear
+Ursus maritimus	Polar bear
+Vespertilio murinus	Parti-coloured bat
+Vormela peregusna	Marbled polecat
+Vulpes corsac	Corsac fox
+Vulpes lagopus	Arctic fox
+Vulpes vulpes	Red fox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

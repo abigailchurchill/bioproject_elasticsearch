@@ -1,0 +1,28 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="/static/datatable.css"/>
+</head>
+
+<body>
+<br>
+<h1 style="margin-left: 45px;font-family: 'Lato', sans-serif; font-size: 50px; font-weight: 300"">Results for {{ query }}:</h1>
+{% for table in tables %}
+    {{ table|safe }}
+{% endfor %}
+<h1 style="margin-left: 45px;font-family: 'Lato', sans-serif; font-size: 45px; font-weight: 300">Links to projects:</h1>
+{% for link in links %}
+    <p style="margin-left: 45px"><a href={{ link }}>{{ link}}</a></p>
+{% endfor %}
+
+<h1 style="margin-left: 45px;font-family: 'Lato', sans-serif; font-size: 50px; font-weight: 300"">Results for {{ sister_query }}:</h1>
+{% for newtable in newtables %}
+    {{ newtable|safe }}
+{% endfor %}
+<h1 style="margin-left: 45px;font-family: 'Lato', sans-serif; font-size: 45px; font-weight: 300"">Links to projects:</h1>
+{% for newlink in newlinks %}
+    <p style="margin-left: 45px"><a href={{ newlink }}>{{ newlink}}</a></p>
+{% endfor %}
+
+</body>
+
+</html>
